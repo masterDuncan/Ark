@@ -1,0 +1,197 @@
+ARK concept
+
+Setting
+	* Mega civilization spaceship ('civship').
+		* The ship is constructed to house human beings, but it is inexplicably empty. The ship is VERY big, there are any number of entire cities inside, uncountable corridors, maintenance installations, energy cores, etc. It's basically a super big dungeon.
+		* Where does it come from?
+		* Where does it go?
+	    * Where *is* it now?
+	    * Who is inside the civship?
+	    	* Players
+	    		* Maintenance multibot androids: Players, NPCs and monsters. Many different types.
+	    		* The civship has millions of these multibots. Most of them are maintenance bots to maintain the ship systems and spaces. For some reason, a number of these multibots are now sentient (Players/NPCs),
+	    		* Their behaviour cores have been reprogrammed and their primary programming has been subverted, thus they have free will. They are essentially immortal, since their cyber-minds are backed up regularly into the main Ark computer.
+	    		* They start off having an humaniform frame, but given the correct components, they can take any shape.
+
+	* Environments: The civship contains several kinds of environments
+			* Cities
+				* Communicated by trains.
+				* Powered by power stations.
+				* Governed by an intelligence.
+				* Policed by security bots (npcs).
+				* Contains:
+					* City Installations
+						* Customizable buildings.
+						* Processing centers (allows all other city installations to function).
+						* Power stations (provides energy to installations and facilities).
+						* Resource warehouses (contains components and items).
+						* Element warehouses (contains elements).
+					* Facilities (buildable)
+						* Turrets.
+						* Energy dispensers.
+						* Recycling stations (recycles items and components into elements and maybe energy).
+						* Fabricator stations (uses blueprints to fabricate components and items).
+						* Maintenance stations (repair bots).
+						* Placeable shields.
+						* Placeable decorative items (monetization here?)
+						* Walls, maybe entire buildings.
+			* Inter-city regions
+				* Kind of a 'desert' where weird and cool encounters can happen.
+			* Maintenance corridors (under everything), communicate installations and cities, can be instanced dungeons.
+
+Gameplay
+	* Basic gameplay
+		* Player bots can fight each other.
+			* Top-down, WASD movement, target and facing with the mouse.
+			* All player bots have a basic energy weapon.
+			* All bots have a basic shield.
+		* Player bots can link up and do PVE. The Environment can be crazy androids that attack everything (the Berserk virus).
+		* There are many items in the environment that can be interacted with.
+			* Lockers, space chests, etc.
+			* Doors, windows, elevators, etc.
+			* Facilities can be constructed if enough material and energy is available.
+				* This might require bots to team up to combine the energy of their batteries and their resources.
+
+	* Players
+	   	 * Sentient bots. Their main drive is survival. They can and should cooperate to survive the harsh environment full of faulty security systems, crazy robots, and maybe hostile invading aliens.
+    	* They are probably all security bots gone 'rogue' (sentient), which would explain why they all have weapons.
+	* NPCs
+		* Regular non-player bots. They go about their business. They mantain the city and the installations. If enough of them are destroyed, the installations might degrade. For instance, the energy allowance tick could increase if there are too few droids working in the power stations.
+    	* Berserk virus (crazy robots). Any bot can be infected. Even players!
+    		* If players are infected and the virus acts, they will lose partial control of their bots. Maybe they start moving weird or shoot people by random intervals. We can have several levels of infection, the last of which will make the players totally lose control of their bots.
+  		* Unspecified alien menace. The ship is currently being invaded by your choice of horribly biological lifeforms.
+
+Multibots
+* How a multibot is built 
+    * Basic components (All components can be damaged)
+        * Basic humaniform legs. Walk, run and jump around.
+            * No expansion sockets.
+        * Basic humaniform arms. Bash other robots.
+            * No expansion sockets.
+        * Basic humaniform hands. Manipulate the world.
+            * No expansion sockets.
+        * Basic humaniform torso. Component motherboard.
+            * Free expansion sockets.
+            * Basic energy weapon installed.
+            * Basic energy defense installed.
+            * Basic energy accumulator installed.
+            * Basic environmental energy extractor installed.
+        * Basic humaniform head.
+            * Basic communication module installed.
+            * Basic sensor package module installed.
+            * Basic bot processor installed.
+            * Basic memory module interface (limited memory capacity).  Contains specialized programs that give the bot different capabilities.
+                * IFF software (link function)
+                * Basic botOS
+                * Basic blueprints.
+* What can a bot do
+    * Basic actions (with basic components)
+        * Move, run, jump
+        * Basic energy attack
+        * Basic energy defense
+        * Communicate
+        * Ally / unally other bots
+        * Use Items and blueprints
+        * Use enviroment when applicable.
+    * Advanced actions (requires other components)
+
+Resources
+* Energy
+    * Multibots need energy to act.
+    * All multibots have an energy bank account. They get energy periodically up to a point, which can be upgraded.
+    * Energy terminals can be accessed to withdraw energy to the multibot local battery for use or purchase.
+    * Multibots can extract a minimal amount of energy from the environment. 
+    * All multibots need a Battery Component (energy storage, and since energy is currency, portable wallet)
+* Blueprints
+    * Can require energy, elements, components and items. 
+    * Show how to build components and items.
+* Elements
+    * Found in the environment and destroyed bots. Can also be recycled from items, components or other elements.
+    * Used to construct components and other elements.
+* Components
+    * Constructed using elements and other components.
+    * Used as-is (in the case of bot components) or to construct items.
+* Items
+    * Anything can be built if we have the blueprint, from a simple ion pistol to a facility.
+    * Everything that can be used is an item. Everything that can be constructed is also an item.
+
+
+
+
+More stuff...
+
+SETTING:
+
+Ark: Super space ship that is kind of a world in itself full of cool stuff.
+* Cities
+  * Cities are protected from violent multibots by security constructs that will enforce order when too much stuff starts getting destroyed in a city.
+  * There are a bunch of buildings in each city that can be occupied by the players.
+  * There are also special buildings (fabricators, energy plants, recyclers, warehouses...) with additional usefulness to the players.
+   
+* Inter-city spans (riddled with fast train tunnels)
+* Energy generation installations
+* Recycling installations
+* Special locations (the bridge, etc).
+
+The ship is constructed to house human beings, but it is inexplicably empty. The ship is VERY big, there are any number of entire cities inside, uncountable corridors, maintenance installations, energy cores, etc. It's basically a super big dungeon. 
+
+PLAYERS:
+
+Maintenance multibot android: Players, NPCs and monsters. Many different types.
+
+Ark has millions of these multibots. Most of them are maintenance bots to maintain the ship systems and spaces. For some reason, a number of these multibots are now sentient (Players/NPCs),
+their behaviour cores have been reprogrammed and their primary programming has been subverted, thus they have free will. They are essentially immortal, since their cyber-minds are backed up regularly into the main Ark computer.
+
+* Cyber-mind module. Backed up in the main Ark computer. Can learn blueprints to fabricate stuff.
+  * Memory: Contains specialized programs that give the multibot different capabilities.
+  * Processing Unit: Affects speed and accuracy.
+  * External module slots: Specialized processing hardware can be acquired and used.
+     * Automap.
+
+* Blueprints: Used to fabricate almost everything, using materials and/or energy.
+* Components: Found, looted or directly fabricated by the multibot. The multibot can only fabricate the items of which it has the blueprints.
+  * Basic body structures: A humaniform synthetic body. Basic shield and basic beam weapon.
+     * Legs: Affects speed
+     * Arms: Affects melee damage
+     * Hands: Affects accuracy
+     * Body: Affects resistances
+     * Communication modules, it would actually be a chat
+     * Weapons and Defenses: They can be slotted in a body component, or just held.
+     * Power accumulator: The multibots need power to work, but this power use is negligible. The power can also be used as currency, or to fabricate stuff.
+        * Where do we find the power? 
+             Power is restricted to a periodic amount per multibot. The multibots are also limited to their internal accumulators when carrying energy.
+             Every so often, an energy allowance for the multibot will be activated, which can be retrieved from an energy outlet. 
+             The allowances can stack to a point, so if the multibot waits for some time, it will be able to retrieve more energy.
+             Every multibot has an energy account, so if the energy does not fit into the current multibot battery, it can be retrieved later if needed.
+             Of course, energy can be found in batteries or looted from other multibots or installations when possible.
+
+  * Every body component can have slots to use specialized equipment. 
+
+* Combine user strenghts: If users collaborate can do bigger things: Like a party (IFF module)
+
+LOOT:
+
+Fabricators: There are fabricators that use energy-matter transfer to create objects. Everything can be recreated from energy, but can be very expensive (need to create the materials from scratch). Multibots can gather materials and use them to fabricate stuff, provided they have the blueprints. Everything has a blueprint, and can be fabricated. Fabricators can also fabricate intermediate components (e.g. electronics) needed to fabricate something more complex (and more useful).
+
+There are several intermediate components that can be fabricated from basic components or savaged from all kinds of machinery:
+* Electronics
+* Metal panels
+* Plastic tubing
+* Energy modules
+* ...
+
+There are several materials that can be found / recycled to use with the fabricators:
+* Metals
+* Plastics 
+* Ceramics 
+* Organics
+
+Recyclers: The recyclers are machines that can break down any component to the materials needed to fabricate stuff. They need energy to operate.
+
+Energy, materials, intermediate items, multibot parts, all kinds of equipable modules, blueprints.... all of this can be found or looted from defeated multibots or from the environment.
+
+MONSTERS:
+
+* There are several multibots that have had they behaviour core corrupted by a misterious virus. These multibots are now violent, disturbed killing machines that will try to destroy anything they perceive, NPCs, players, buildings, anything. Any non-player multibot can carry the virus, and this virus is dormant until it randomly wakes up and makes any multibot a crazy violent machine.
+Actually, ANY NPC can be affected at any time, so walking around is kind of dangerous. If several multibots get crazy and do too much damage to other multibots, buildings or anything, security multibots will appear and try to restore order. They will normally try to destroy the crazy bots, but if any player attacks them they may decide that that player needs to be deactivated too.
+
