@@ -1,9 +1,15 @@
 Ark_UnityNetworkPrototype/Library/
 Ark_UnityCombatPrototype/Library/
-Ark_UnityNetworkedCombatPrototype/Library
-Ark_UnityAvatarAnimationPrototype/Library
+Ark_UnityNetworkedCombatPrototype/Library/
+Ark_UnityAvatarAnimationPrototype/Library/
 
-Ark_UnityNetworkPrototype/UnityPackageManager
-Ark_UnityCombatPrototype/UnityPackageManager
-Ark_UnityNetworkedCombatPrototype/UnityPackageManager
-Ark_UnityAvatarAnimationPrototype/UnityPackageManager
+Ark_UnityNetworkPrototype/UnityPackageManager/
+Ark_UnityCombatPrototype/UnityPackageManager/
+Ark_UnityNetworkedCombatPrototype/UnityPackageManager/
+Ark_UnityAvatarAnimationPrototype/UnityPackageManager/
+
+Ark_UnityNetworkPrototype/Temp/
+Ark_UnityCombatPrototype/Temp/
+Ark_UnityNetworkedCombatPrototype/Temp/
+Ark_UnityAvatarAnimationPrototype/Temp/
+
