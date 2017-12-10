@@ -211,3 +211,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: bb2ccc20e9917b0499729b8ee98b1fbc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
+=======
+  playerShieldHitPrefab: {fileID: 1505933827519790, guid: ed8ba032e185b4a43836ea5d6f9efcf3,
+    type: 2}
+  playerHitPrefab: {fileID: 1247325111624436, guid: 5214349447b486447bc8eb1df7b43a77,
+    type: 2}
+>>>>>>> Stashed changes

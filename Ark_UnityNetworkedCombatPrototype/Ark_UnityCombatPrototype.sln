@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
@@ -27,3 +28,43 @@ Global
 		StartupItem = Assembly-CSharp.csproj
 	EndGlobalSection
 EndGlobal
+=======
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ark_UnityCombatPrototype", "Ark_UnityCombatPrototype.csproj", "{D4C76AD3-4B6B-8A62-C9FB-B0A39EA3D1BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ark_UnityCombatPrototype.Plugins", "Ark_UnityCombatPrototype.Plugins.csproj", "{67157B8D-C6A9-1749-329D-BE2A74B4FB59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ark_UnityCombatPrototype.Editor.Plugins", "Ark_UnityCombatPrototype.Editor.Plugins.csproj", "{548A7D35-D9AF-7D68-F991-B65F2D55A52D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ark_UnityCombatPrototype.Editor", "Ark_UnityCombatPrototype.Editor.csproj", "{E4457A48-9096-6524-F111-4AB9ACE2E3AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4C76AD3-4B6B-8A62-C9FB-B0A39EA3D1BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4C76AD3-4B6B-8A62-C9FB-B0A39EA3D1BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4C76AD3-4B6B-8A62-C9FB-B0A39EA3D1BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4C76AD3-4B6B-8A62-C9FB-B0A39EA3D1BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67157B8D-C6A9-1749-329D-BE2A74B4FB59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67157B8D-C6A9-1749-329D-BE2A74B4FB59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67157B8D-C6A9-1749-329D-BE2A74B4FB59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67157B8D-C6A9-1749-329D-BE2A74B4FB59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{548A7D35-D9AF-7D68-F991-B65F2D55A52D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{548A7D35-D9AF-7D68-F991-B65F2D55A52D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{548A7D35-D9AF-7D68-F991-B65F2D55A52D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{548A7D35-D9AF-7D68-F991-B65F2D55A52D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4457A48-9096-6524-F111-4AB9ACE2E3AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4457A48-9096-6524-F111-4AB9ACE2E3AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4457A48-9096-6524-F111-4AB9ACE2E3AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4457A48-9096-6524-F111-4AB9ACE2E3AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
+>>>>>>> Stashed changes

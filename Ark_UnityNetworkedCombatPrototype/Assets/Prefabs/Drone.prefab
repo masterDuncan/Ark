@@ -186,6 +186,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ec71913fc05c1f0468d06c6dff3cea50, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
+=======
+  droneShootingPrefab: {fileID: 1818892151661492, guid: 92e073ed6b2cd3649b42b39457a028c0,
+    type: 2}
+>>>>>>> Stashed changes
   shotPrefab: {fileID: 136330, guid: bbba4df51ecd8d14e8ada069d3e6e166, type: 2}
 --- !u!114 &114471968412414864
 MonoBehaviour:

@@ -1,9 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+<<<<<<< Updated upstream
 using UnityEngine.Networking;
 using UnityEngine;
 
 public class MovementControl : NetworkBehaviour {
+=======
+using UnityEngine;
+
+public class MovementControl : MonoBehaviour {
+>>>>>>> Stashed changes
     private const float PLAYER_SPEED = 4f;
     private const float MAX_VALUE = 50f;
     private const float MIN_VALUE = -50f;
@@ -18,8 +24,11 @@ public class MovementControl : NetworkBehaviour {
 	}
 	
 	void Update () {
+<<<<<<< Updated upstream
 		if (!isLocalPlayer)
 			return;
+=======
+>>>>>>> Stashed changes
         UpdatePosition();
         UpdateRotation();
     }

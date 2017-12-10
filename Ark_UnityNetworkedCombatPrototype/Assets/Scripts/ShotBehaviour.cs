@@ -1,6 +1,9 @@
 ﻿using UnityEngine;
 using System.Collections;
+<<<<<<< Updated upstream
 using UnityEngine.Networking;
+=======
+>>>>>>> Stashed changes
 using UnityEngine.UI;
 
 public class ShotBehaviour : MonoBehaviour {
@@ -20,7 +23,11 @@ public class ShotBehaviour : MonoBehaviour {
     {
         if (other.tag == "IsDrone")
         {
+<<<<<<< Updated upstream
             Destroy(other.gameObject);
+=======
+            //Destroy(other.gameObject);
+>>>>>>> Stashed changes
             GameObject.FindObjectOfType<RangeAttackControl>().DroneKilled();
             GameObject explosion = GameObject.Instantiate(explosionPrefab, gameObject.transform.position, transform.rotation) as GameObject;
             GameObject.Destroy(explosion, EXPLOSION_TTL);

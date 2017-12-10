@@ -12,14 +12,23 @@ public class SpawnManager : MonoBehaviour {
     public GameObject dronePrefab;
 
     void Start () {
+<<<<<<< Updated upstream
 	}
+=======
+        Spawn();
+    }
+>>>>>>> Stashed changes
 	
 	void Update () {
         _passedTime += Time.deltaTime;
         if (_passedTime > DRONE_SPAWN_DELAY)
         {
             _passedTime -= DRONE_SPAWN_DELAY;
+<<<<<<< Updated upstream
             Spawn();
+=======
+            //Spawn();
+>>>>>>> Stashed changes
         }
     }
 

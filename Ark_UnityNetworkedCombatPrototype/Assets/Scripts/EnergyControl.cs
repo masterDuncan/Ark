@@ -5,7 +5,11 @@ using UnityEngine.UI;
 
 public class EnergyControl : MonoBehaviour {
     private const float MAX_ENERGY = 100f;
+<<<<<<< Updated upstream
     private const float ENERGY_INCREASE_DELAY = 0.05f;
+=======
+    private const float ENERGY_INCREASE_DELAY = 1.0f;
+>>>>>>> Stashed changes
 
     private float _passedTime = 0f;
     private float _currentEnergy;
