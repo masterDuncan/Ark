@@ -3,15 +3,10 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class ForceFieldControl : MonoBehaviour {
-<<<<<<< Updated upstream
-    private const float FORCE_FIELD_DURATION = 3f;
-    private const float COST = 50f;
-=======
     private const float FORCE_FIELD_DURATION = 1.5f;
     private const float COST = 10f;
     private const float EXPLOSION_TTL = 1f;
     public GameObject playerActivateForcefieldPrefab;
->>>>>>> Stashed changes
 
     private bool _forceFieldActive = false;
     private float _passedTime = 0f;
@@ -36,15 +31,10 @@ public class ForceFieldControl : MonoBehaviour {
             UpdateForceField(false);
         }
 
-<<<<<<< Updated upstream
-        if (Input.GetKey(KeyCode.LeftControl))
-        {
-=======
         if (Input.GetMouseButtonDown(1))
         {
             GameObject activating = GameObject.Instantiate(playerActivateForcefieldPrefab, new Vector3(transform.position.x + 0.2f, transform.position.y + 1.6f, transform.position.z), transform.rotation) as GameObject;
             GameObject.Destroy(activating, EXPLOSION_TTL);
->>>>>>> Stashed changes
             if (!_energyControl.DeductEnergy(COST))
             {
                 return;
